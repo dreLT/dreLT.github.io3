@@ -443,3 +443,13 @@ footer .footer-below {
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
+/* Custom Styles */
+
+img.profile-pic {
+    width: 50px;
+}
+
+h1.name-heading {
+    font-size: 3em;
+}

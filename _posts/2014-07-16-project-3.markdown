@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 3
+modal-id: https://github.com/dreLT/drepong
 date: 2014-07-16
-img: circus.png
+img: drepong.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

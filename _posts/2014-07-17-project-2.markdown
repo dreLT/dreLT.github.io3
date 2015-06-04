@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
+modal-id: https://github.com/dreLT/pomodoro
 date: 2014-07-17
-img: cake.png
+img: pomodoro.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

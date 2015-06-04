@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
+modal-id: https://github.com/dreLT/historic-tax-credit-coalition
 date: 2014-07-18
-img: cabin.png
+img: HTCC.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: A fully responsive Wordpress theme developed for the Historic Tax Credit Coalition. The theme is live at <a href="http://historiccredit.com">http://historiccredit.com</a>. I developed this theme mostly from scratch, with the help of html5blank, which provided great basic HTML and Wordpress scaffolding. The theme responds appropriately to all screen resolutions. In terms of Wordpress functionality, I tailored the theme to meet the needs of the client, using custom post types and taxonomies for the various categories of posts required (Advocacy, News and Members posts). I also implemented custom fields to give the client the ability to edit most of the site's content via the Wordpress dashboard.
 
 ---

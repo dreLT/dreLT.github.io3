@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 4
+modal-id: https://github.com/dreLT/ripples-of-change
 date: 2014-07-15
-img: game.png
+img: roc.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
